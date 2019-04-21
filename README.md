@@ -5,4 +5,4 @@ madKDE allows you to open and login as root in the KDE environment
 - Patch Kate to open as root.
 - Patch Dolphin to open as root.
 - Patch sddm to login as root.
-- Add important environment to the root user.
+- Add important PATH environment to the root user.
